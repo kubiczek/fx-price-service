@@ -2,5 +2,5 @@
 
 Run tests:
 ```
-% grdlew test
+% ./gradlew test
 ```
